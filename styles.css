@@ -1,0 +1,66 @@
+body {
+  background-color: #fefde5;
+  font-family: 'Poppins', sans-serif;
+  padding-top: 80px; 
+}
+
+.hero {
+  padding-top: 120px;
+  padding-bottom: 80px;
+}
+
+.fs-5 {
+  font-weight: 500;
+  font-size: 28px;
+  color: #03045E;
+}
+
+.productdesigner {
+  font-weight: 800;
+  font-size: 100px;
+  color: #03045E;
+  line-height: 116px;
+}
+
+.basedin {
+  font-weight: 500;
+  font-size: 28px;
+  color: #03045E;
+}
+
+.about, .work, .contact {
+  font-weight: 800;
+  font-size: 100px;
+  line-height: 116px;
+  color: #f7f197;
+}
+
+.paragraphe, .paragraphework {
+  font-size: 24px;
+  line-height: 44px;
+  color:#03045E;
+}
+
+#image{
+  width: 280px;
+  height: 280px;
+  background-image: url(img/WhatsApp\ Image\ 2025-09-12\ à\ 11.09.59_ec270ede.jpg);
+  background-size: cover;
+  margin-left: 240px;
+  border-radius: 20%;
+}
+
+footer {
+  background: #03045E;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.social-icons a {
+  margin: 0 10px;
+  color: #03045E;
+  font-size: 24px;
+  text-decoration: none;
+}
